@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ez.com" resolutions="1x" timestamp="1545516787762">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ez.com" resolutions="1x" timestamp="1545518344698">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="413155042" ref="index"/>
+    <file name="index.css" crc="4074684999" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,10 +12,14 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u114-4.png" crc="4169218378" ref="index"/>
+    <file name="u114-4.png" crc="4183955151" ref="index"/>
     <file name="cool-wave-particles-background_vklbieii__f0000.jpg" crc="4020295449" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u133-4.png" crc="3935427140" ref="index"/>
+    <file name="u124-4.png" crc="4090112139" ref="index"/>
+    <file name="u130-4.png" crc="4252332110" ref="index"/>
+    <file name="u118-4.png" crc="3788187364" ref="index"/>
   </folder>
-  <file name="index.html" crc="368369484" seo="true" mt="1545516757137" redirect="true"/>
+  <file name="index.html" crc="4193041456" seo="true" mt="1545518300874" redirect="true"/>
 </manifest>
